@@ -2,7 +2,7 @@
 
 **🔴 Live Demo:** [lead-classification-model-tjzqwfxkdlobbizyrjyhxd.streamlit.app](https://lead-classification-model-tjzqwfxkdlobbizyrjyhxd.streamlit.app)
 
-A machine learning classification system that predicts restaurant lead priority (**High / Medium / Low**) using a **Random Forest classifier**, trained on real-world business lead data. The project covers the full ML lifecycle — from raw data cleaning to a deployed, interactive prediction dashboard.
+A machine learning classification system that predicts restaurant lead priority (**High / Medium / Low**) using a **Random Forest classifier**, trained on real-world business lead data. The project covers the full ML lifecycle from raw data cleaning to a deployed, interactive prediction dashboard.
 
 Unlike a rule-based scoring system, this model **learns patterns directly from data**, using measurable indicators of a business's digital maturity to estimate how promising a lead is for automation-focused outreach.
 
@@ -25,7 +25,11 @@ Unlike a rule-based scoring system, this model **learns patterns directly from d
 ## 📸 Screenshots
 
 **Prediction Dashboard: Actual vs Predicted Priority**
-![Prediction dashboard](screenshots/prediction-dashboard.png)
+<img width="1920" height="944" alt="Screenshot (2985)" src="https://github.com/user-attachments/assets/d1d26b9c-93a6-4b41-9a26-7db8b7cf411c" />
+<img width="1920" height="875" alt="Screenshot (2986)" src="https://github.com/user-attachments/assets/83e3d942-89a1-4a19-b397-1d623762cc5d" />
+<img width="1920" height="849" alt="Screenshot (2987)" src="https://github.com/user-attachments/assets/9639a088-db13-42b9-8695-0c39a7c8256c" />
+<img width="1920" height="852" alt="Screenshot (2989)" src="https://github.com/user-attachments/assets/15e44342-ff49-4cbe-bfb3-60002d09a33d" />
+
 
 ---
 
