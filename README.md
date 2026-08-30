@@ -1,6 +1,8 @@
 # 🧠 Lead Classification Model
 
-A machine learning classification system that predicts restaurant lead priority (**High / Medium / Low**) using a **Random Forest classifier**, trained on real-world business lead data. The project covers the full ML lifecycle from raw data cleaning to a deployed, interactive prediction dashboard.
+**🔴 Live Demo:** [lead-classification-model-tjzqwfxkdlobbizyrjyhxd.streamlit.app](https://lead-classification-model-tjzqwfxkdlobbizyrjyhxd.streamlit.app)
+
+A machine learning classification system that predicts restaurant lead priority (**High / Medium / Low**) using a **Random Forest classifier**, trained on real-world business lead data. The project covers the full ML lifecycle — from raw data cleaning to a deployed, interactive prediction dashboard.
 
 Unlike a rule-based scoring system, this model **learns patterns directly from data**, using measurable indicators of a business's digital maturity to estimate how promising a lead is for automation-focused outreach.
 
